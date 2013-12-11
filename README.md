@@ -1,4 +1,0 @@
-worm
-====
-
-python for ireader
